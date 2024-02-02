@@ -8,7 +8,7 @@
 
   This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://hoteltemplate.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ihoteltemplate.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
